@@ -20,7 +20,7 @@ public class Question16 {
 			}
 		}
 			if(isprime) {
-				System.out.print(n + " ");
+				System.out.print(n + "  ");
 			}
 		}
 	}
